@@ -1,5 +1,7 @@
 # PyPDF3
 
+**NOTICE:** this repo is no longer maintained.  I recommend checking out my currently maintained PDF project [pdfconduit](https://github.com/sfneal/pdfconduit) or the most recent version of [pypdf](https://github.com/py-pdf/pypdf)
+
 [![GuardRails badge](https://badges.production.guardrails.io/sfneal/PyPDF3.svg)](https://www.guardrails.io)
 
 Fork of PyPDF2 with feature improvements.
